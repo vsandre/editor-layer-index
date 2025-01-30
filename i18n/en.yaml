@@ -378,6 +378,22 @@ en:
         text: Ohio Department of Transportation
       description: Ohio Department of Transportation (ODOT) - Transportation Information Mapping System (TIMS) Road Inventory published June 2024.
       name: ODOT Road Inventory
+    ORTOS_DGRF_2004_06:
+      attribution:
+        text: Informação geográfica cedida pela Direção-Geral do Território
+      name: Orthophotos of mainland Portugal - 50 cm - 2004-2006 (DGT)
+    ORTOS_DGT_2014_15:
+      attribution:
+        text: Informação geográfica cedida pela Direção-Geral do Território
+      name: Orthophotos of the coastal areas of mainland Portugal - 10 cm - 2014-2015 (DGT)
+    ORTOS_DGT_2018_WMS:
+      attribution:
+        text: Informação geográfica cedida pela Direção-Geral do Território
+      name: Orthophotos of mainland Portugal - 25 cm - 2018 (DGT)
+    ORTOS_DGT_2021_RGB:
+      attribution:
+        text: Informação geográfica cedida pela Direção-Geral do Território
+      name: Orthophotos of the northern portion of mainland Portugal - 25 cm - 2021 (DGT)
     OSIP:
       attribution:
         text: Ohio Statewide Imagery Program
