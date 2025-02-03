@@ -2,23 +2,24 @@
     "type": "Feature",
     "properties": {
         "attribution": {
-            "url": "https://data.melbourne.vic.gov.au/explore/dataset/2018-aerial-imagery-true-ortho/information/",
+            "url": "https://data.melbourne.vic.gov.au/explore/dataset/2020-aerial-imagery-true-ortho/information/",
             "text": "City of Melbourne",
             "required": true
         },
         "license_url": "https://wiki.openstreetmap.org/wiki/File:City_of_Melbourne_OSMF_CCBY_waiver.pdf",
         "privacy_policy_url": "https://osmfoundation.org/wiki/Privacy_Policy",
-        "name": "City of Melbourne May 2018",
-        "url": "https://au-vic-melbourne-imagery.openstreetmap.org/layer/melbourne-2018/{zoom}/{x}/{y}.webp",
-        "max_zoom": 21,
-        "min_zoom": 8,
+        "name": "City of Melbourne May 2020",
+        "url": "https://au-vic-melbourne-imagery.openstreetmap.org/layer/melbourne-2020/{zoom}/{x}/{y}.webp",
+        "max_zoom": 23,
+        "min_zoom": 7,
         "country_code": "AU",
         "type": "tms",
-        "id": "City_of_Melbourne_May_2018",
-        "start_date": "2018-05",
-        "end_date": "2018-05",
+        "id": "City_of_Melbourne_May_2020",
+        "start_date": "2020-05",
+        "end_date": "2020-05",
         "icon": "https://www.melbourne.vic.gov.au/themes/custom/com/images/logo.svg",
-        "category": "historicphoto"
+        "category": "photo",
+        "best": true
     },
     "geometry": {
         "type": "Polygon",
