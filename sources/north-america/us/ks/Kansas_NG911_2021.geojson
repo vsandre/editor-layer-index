@@ -22,7 +22,8 @@
         "end_date": "2021",
         "description": "The 2021 orthoimagery for the State of Kansas provided by Kansas 911 Coordinating Council",
         "category": "photo",
-        "valid-georeference": true
+        "valid-georeference": true,
+        "best": true
     },
     "geometry": {
         "type": "Polygon",
