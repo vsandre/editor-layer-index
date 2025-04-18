@@ -3,7 +3,7 @@
     "properties": {
         "name": "KyFromAbove Aerial Imagery (2018-2022)",
         "type": "tms",
-        "url": "https://kygisserver.ky.gov/arcgis/rest/services/WGS84WM_Services/Ky_Imagery_Phase2_6IN_WGS84WM/MapServer/tile/{z}/{y}/{x}",
+        "url": "https://kygisserver.ky.gov/arcgis/rest/services/WGS84WM_Services/Ky_Imagery_Phase2_6IN_WGS84WM/MapServer/tile/{zoom}/{y}/{x}",
         "min_zoom": 3,
         "max_zoom": 20,
         "permission_osm": "implicit",
