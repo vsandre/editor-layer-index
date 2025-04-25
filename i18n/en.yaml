@@ -424,16 +424,6 @@ en:
         text: Ohio Statewide Imagery Program
       description: Ohio Statewide Imagery Program III most current orthoimagery of every county at resolutions from 1 foot to 3 inches from 2017 through 2020.
       name: Ohio Statewide Imagery Program
-    OSIP_1ft:
-      attribution:
-        text: Ohio Statewide Imagery Program
-      description: Ohio Statewide Imagery Program II orthoimagery of all 88 counties at 1-foot resolution from 2011 through 2014.
-      name: Ohio Statewide Imagery Program 1-Foot
-    OSIP_6in:
-      attribution:
-        text: Ohio Statewide Imagery Program
-      description: Ohio Statewide Imagery Program III orthoimagery of 40 counties captured at 6-inch resolution in 2017 and 2018, plus OSIP I and OSIP II imagery in 16 more counties from 2010 through 2014.
-      name: Ohio Statewide Imagery Program 6-Inch
     OSMUK-Cadastral-Parcels:
       attribution:
         text: Contains public sector information licensed under the Open Government Licence v3.0.
