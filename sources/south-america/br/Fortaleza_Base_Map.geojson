@@ -1,18 +1,16 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Fortaleza_Ortofoto_2016",
-        "url": "https://geoserver.sefin.fortaleza.ce.gov.br/geoserver/IMAGEAMENTO/wms?LAYERS=ortofoto_2016&STYLES=&FORMAT=image/png&TRANSPARENT=TRUE&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap",
+        "id": "Fortaleza_Base_Map",
+        "description": "Base map from the Municipality of Fortaleza, including plots, buildings, roads, water bodies, admin boundaries, among other features.",
+        "url": "https://geoserver.sefin.fortaleza.ce.gov.br/geoserver/wms?LAYERS=CAMADA_BASE:mapa_fortaleza&STYLES=&FORMAT=image/png&TRANSPARENT=TRUE&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap",
         "type": "wms",
         "country_code": "BR",
         "icon": "https://osmlab.github.io/editor-layer-index/sources/south-america/br/Fortaleza.png",
-        "name": "Fortaleza Ortofoto 2016",
+        "name": "Fortaleza Base Cartográfica",
         "permission_osm": "explicit",
         "license_url": "https://wiki.openstreetmap.org/wiki/File:Autoriza%C3%A7%C3%A3o_IDE_SEFIN_Fortaleza.png",
         "privacy_policy_url": "https://www.sefin.fortaleza.ce.gov.br/Canal/16/Generico/1339/Ler",
-        "best": true,
-        "end_date": "2017-01-16",
-        "start_date": "2016-12-20",
         "attribution": {
             "url": "https://ide.sefin.fortaleza.ce.gov.br/",
             "text": "Prefeitura Municipal de Fortaleza"
@@ -23,7 +21,7 @@
             "EPSG:4326",
             "EPSG:31984"
         ],
-        "category": "photo",
+        "category": "map",
         "valid-georeference": true
     },
     "geometry": {
