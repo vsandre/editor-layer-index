@@ -1,14 +1,14 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "RIGIS_Aerial_Photo_22s",
+        "id": "RIGIS_Aerial_Photo_25s",
         "attribution": {
             "url": "https://planning.ri.gov/planning-areas/data-center/aerial-photography",
             "text": "RIGIS",
             "required": false
         },
-        "name": "Rhode Island Aerial Photo (Spring 2022)",
-        "url": "https://maps.edc.uri.edu/rigis/rest/services/IMG/RI_202204_RGB_3in_web/ImageServer/exportImage?f=image&format=jpgpng&imageSR={wkid}&bboxSR={wkid}&bbox={bbox}&size={width},{height}",
+        "name": "Rhode Island Aerial Photo (Spring 2025)",
+        "url": "https://maps.edc.uri.edu/rigis/rest/services/IMG/RI_202504_RGB_3in_web/ImageServer/exportImage?f=image&format=jpgpng&imageSR={wkid}&bboxSR={wkid}&bbox={bbox}&size={width},{height}",
         "max_zoom": 21,
         "license_url": "https://wiki.openstreetmap.org/wiki/Rhode_Island/RIGIS_Aerial_Photo",
         "country_code": "US",
@@ -18,13 +18,14 @@
             "EPSG:3857",
             "EPSG:4326"
         ],
-        "start_date": "2022-04-02",
-        "end_date": "2022-04-23",
-        "description": "Aerial Photo for the State of Rhode Island (Spring 2022)",
-        "category": "historicphoto",
+        "start_date": "2025-04",
+        "end_date": "2025-04",
+        "description": "Aerial Photo for the State of Rhode Island (Spring 2025)",
+        "category": "photo",
         "privacy_policy_url": "https://web.uri.edu/enrollment/gdpr-privacy-notice/",
         "logo-image": "https://data.rigis.org/assets/img/RIGIS_logo_opendata.png",
-        "valid-georeference": false
+        "valid-georeference": false,
+        "best": true
     },
     "geometry": {
         "type": "MultiPolygon",
