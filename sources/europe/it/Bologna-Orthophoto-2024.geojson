@@ -1,21 +1,22 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Bologna-Orthophoto-2022",
-        "url": "https://sitmappe.comune.bologna.it/tms/tileserver/Ortofoto2022/{zoom}/{x}/{y}.png",
+        "id": "Bologna-Orthophoto-2024",
+        "url": "https://sitmappe.comune.bologna.it/tms/tileserver/Ortofoto2024/{zoom}/{x}/{y}.png",
         "type": "tms",
-        "name": "Bologna ortofoto 2022",
+        "name": "Bologna ortofoto 2024",
         "country_code": "IT",
         "attribution": {
-            "url": "http://dati.comune.bologna.it/node/3449",
-            "text": "© Comune di Bologna cc-by 4.0 ODbL compliant",
+            "url": "https://opendata.comune.bologna.it/explore/dataset/tile-server-ortofoto-comune-di-bologna/information/",
+            "text": "© Comune di Bologna ODbL",
             "required": true
         },
-        "license_url": "http://dati.comune.bologna.it/node/3449",
+        "license_url": "https://opendata.comune.bologna.it/explore/dataset/tile-server-ortofoto-comune-di-bologna/information/",
         "max_zoom": 21,
-        "category": "historicphoto",
-        "start_date": "2022",
-        "end_date": "2022",
+        "category": "photo",
+        "best": true,
+        "start_date": "2024",
+        "end_date": "2024",
         "privacy_policy_url": "https://opendata.comune.bologna.it/terms/privacy-policy/"
     },
     "geometry": {
