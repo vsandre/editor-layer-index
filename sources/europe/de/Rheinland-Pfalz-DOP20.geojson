@@ -2711,7 +2711,7 @@
   "properties": {
     "attribution": {
       "required": true,
-      "text": "©GeoBasis-DE / LVermGeoRP<YEAR>, dl-de/by-2-0, www.lvermgeo.rlp.de",
+      "text": "© GeoBasis-DE / LVermGeoRP<YEAR>, dl-de/by-2-0, www.lvermgeo.rlp.de",
       "url": "https://www.lvermgeo.rlp.de/"
     },
     "available_projections": [
