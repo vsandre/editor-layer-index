@@ -1,15 +1,15 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Santa_Clara_County_24w",
+        "id": "Santa_Clara_County_25w",
         "attribution": {
             "url": "https://gis.sccgov.org/home",
             "text": "County of Santa Clara",
             "required": false
         },
-        "name": "Santa Clara County Orthoimagery (Winter 2024)",
+        "name": "Santa Clara County Orthoimagery (Winter 2025)",
         "icon": "https://files.santaclaracounty.gov/2023-07/county-seal-black_0.svg",
-        "url": "https://mapimages.sccgov.org/arcgis/rest/services/imagery/OrthoImagery2024/ImageServer/exportImage?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
+        "url": "https://mapimages.sccgov.org/arcgis/rest/services/imagery/OrthoImagery2025/ImageServer/exportImage?f=image&format=jpg&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
         "max_zoom": 23,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
@@ -18,10 +18,10 @@
             "CRS:84",
             "EPSG:3857"
         ],
-        "start_date": "2023-11-20",
-        "end_date": "2024-01-07",
-        "description": "Winter 2024 3-6 inch resolution imagery for Santa Clara County in the State of California",
-        "category": "historicphoto",
+        "start_date": "2024-11-21",
+        "end_date": "2025-01-28",
+        "description": "Winter 2025 3-6 inch resolution imagery for Santa Clara County in the State of California",
+        "category": "photo",
         "privacy_policy_url": "https://www.santaclaracounty.gov/privacy-policy"
     },
     "geometry": {
