@@ -3,7 +3,7 @@
     "properties": {
         "id": "DC_From_Above_Ortho_2021",
         "attribution": {
-            "url": "https://opendata.dc.gov/datasets/aerial-photography-image-service-orthophoto-2021/",
+            "url": "https://opendata.dc.gov/datasets/DCGIS::aerial-photography-orthophoto-2021/about",
             "text": "OCTO, DCGIS",
             "required": false
         },
