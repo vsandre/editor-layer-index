@@ -8,18 +8,12 @@
             "required": true
         },
         "name": "Toronto Latest Orthoimagery",
-        "url": "https://gis.toronto.ca/arcgis/services/basemap/cot_ortho/MapServer/WmsServer?FORMAT=image/png&TRANSPARENT=TRUE&VERSION=1.3.0&SERVICE=WMS&REQUEST=GetMap&LAYERS=0&STYLES=&CRS={proj}&WIDTH={width}&HEIGHT={height}&BBOX={bbox}",
+        "url": "https://gis.toronto.ca/arcgis/rest/services/basemap/cot_ortho/MapServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 24,
         "license_url": "https://osmfoundation.org/wiki/OGL_Canada_and_local_variants",
         "permission_osm": "explicit",
         "country_code": "CA",
-        "type": "wms",
-        "available_projections": [
-            "CRS:84",
-            "EPSG:3857",
-            "EPSG:4326"
-
-        ],
+        "type": "tms",
         "description": "Latest 8 centimeter resolution orthoimagery for the City of Toronto in the Province of Ontario",
         "category": "photo",
         "valid-georeference": true,
@@ -39,7 +33,7 @@
                 ],
                 [
                     -79.59502718582,
-                    43.61499094490
+                    43.6149909449
                 ],
                 [
                     -79.54930686221,
@@ -58,7 +52,7 @@
                     43.60060559501
                 ],
                 [
-                    -79.30530285540,
+                    -79.3053028554,
                     43.60437717331
                 ],
                 [
@@ -70,12 +64,12 @@
                     43.76550890763
                 ],
                 [
-                    -79.09648106940,
+                    -79.0964810694,
                     43.79817641747
                 ],
                 [
                     -79.12870752071,
-                    43.81849649760
+                    43.8184964976
                 ],
                 [
                     -79.13798487931,
@@ -83,11 +77,11 @@
                 ],
                 [
                     -79.15930652801,
-                    43.86873872370
+                    43.8687387237
                 ],
                 [
                     -79.65403786986,
-                    43.75751510770
+                    43.7575151077
                 ],
                 [
                     -79.65293978144,
