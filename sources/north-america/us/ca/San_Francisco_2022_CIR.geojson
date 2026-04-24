@@ -8,7 +8,7 @@
             "required": false
         },
         "name": "San Francisco Orthoimagery CIR (2022)",
-        "icon": "https://www.sf.gov/themes/custom/sfgovpl/logo-white.svg",
+        "icon": "https://media.api.sf.gov/original_images/Lockup_CCSF_Black.png",
         "url": "https://tile.sf.gov/api/tiles/p2022_irg8cm/{zoom}/{x}/{y}",
         "max_zoom": 20,
         "min_zoom": 10,

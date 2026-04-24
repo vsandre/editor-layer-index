@@ -1,25 +1,26 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "San_Francisco_2024_CIR",
+        "id": "San_Francisco_2025",
         "attribution": {
             "url": "https://www.sf.gov/",
             "text": "City and County of San Francisco",
             "required": false
         },
-        "name": "San Francisco Orthoimagery CIR (2024)",
+        "name": "San Francisco Orthoimagery (2024)",
         "icon": "https://media.api.sf.gov/original_images/Lockup_CCSF_Black.png",
-        "url": "https://tile.sf.gov/api/tiles/p2024_irg8cm/{zoom}/{x}/{y}",
+        "url": "https://tile.sf.gov/api/tiles/p2025_rgb8cm/{zoom}/{x}/{y}",
         "max_zoom": 20,
         "min_zoom": 10,
         "license_url": "https://wiki.openstreetmap.org/wiki/California#Publicly_Available_Data",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2024",
-        "end_date": "2024",
-        "description": "2024 3-inch resolution imagery for San Francisco in the State of California",
+        "start_date": "2025",
+        "end_date": "2025",
+        "description": "2025 3-inch resolution imagery for San Francisco in the State of California",
         "category": "photo",
-        "privacy_policy_url": "https://www.sf.gov/information/privacy-policy-sfgov"
+        "privacy_policy_url": "https://www.sf.gov/information/privacy-policy-sfgov",
+        "best": true
     },
     "geometry": {
         "type": "MultiPolygon",
