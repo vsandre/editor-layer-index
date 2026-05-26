@@ -1,21 +1,21 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Saint_Johns_Ortho_CIR_2024",
+        "id": "Saint_Johns_Ortho_CIR_2025",
         "attribution": {
             "url": "https://www.sjcfl.us/GIS/index.aspx",
             "text": "Saint Johns County GIS",
             "required": false
         },
-        "name": "Saint Johns County Infrared Orthoimagery (2024)",
-        "url": "https://www.gis.sjcfl.us/portal_sjcgis/rest/services/Imagery_2024_cir/MapServer/tile/{zoom}/{y}/{x}",
+        "name": "Saint Johns County Infrared Orthoimagery (2025)",
+        "url": "https://www.gis.sjcfl.us/portal_sjcgis/rest/services/Hosted/Imagery_2025_cir/MapServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 20,
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2024",
-        "end_date": "2024",
-        "description": "The 2024 color infrared orthoimagery for Saint Johns County in the State of Florida",
+        "start_date": "2025",
+        "end_date": "2025",
+        "description": "The 2025 color infrared orthoimagery for Saint Johns County in the State of Florida",
         "category": "historicphoto",
         "valid-georeference": true,
         "privacy_policy_url": "https://sjcfl.us/county/SiteTools/privacy.aspx"
