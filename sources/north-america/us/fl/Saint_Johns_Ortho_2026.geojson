@@ -7,7 +7,7 @@
             "text": "Saint Johns County GIS",
             "required": false
         },
-        "name": "Saint Johns County Natural Color Orthoimagery (2025)",
+        "name": "Saint Johns County Natural Color Orthoimagery (2026)",
         "url": "https://www.gis.sjcfl.us/portal_sjcgis/rest/services/Hosted/Imagery_2026_color/MapServer/tile/{zoom}/{y}/{x}",
         "max_zoom": 20,
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
