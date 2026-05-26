@@ -1,22 +1,22 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Sarasota_Ortho_2024",
+        "id": "Sarasota_Ortho_2025",
         "attribution": {
             "url": "https://data-sarco.opendata.arcgis.com/",
             "text": "Sarasota County GIS",
             "required": false
         },
-        "name": "Sarasota County Orthoimagery (2024)",
-        "url": "https://ags3.scgov.net/agsfed/rest/services/ImageServices/SC2024WM/ImageServer/WMTS/tile/1.0.0/ImageServices_SC2024WM/default/default028mm/{zoom}/{y}/{x}",
+        "name": "Sarasota County Orthoimagery (2025)",
+        "url": "https://ags3.scgov.net/agsfed/rest/services/ImageServices/SC2025WM/ImageServer/WMTS/tile/1.0.0/ImageServices_SC2025WM/default/default028mm/{zoom}/{y}/{x}",
         "min_zoom": 8,
         "max_zoom": 20,
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
         "country_code": "US",
         "type": "tms",
-        "start_date": "2023-12-06",
-        "end_date": "2024-01-03",
-        "description": "The 2024 3-inch resolution orthoimagery for Sarasota County in the State of Florida",
+        "start_date": "2024-12-06",
+        "end_date": "2025-01-03",
+        "description": "The 2025 3-inch resolution orthoimagery for Sarasota County in the State of Florida",
         "category": "photo",
         "valid-georeference": true,
         "privacy_policy_url": false
