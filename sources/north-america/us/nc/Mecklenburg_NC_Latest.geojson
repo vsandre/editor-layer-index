@@ -1,13 +1,13 @@
 {
     "type": "Feature",
     "properties": {
-        "id": "Mecklenburg_NC_2025",
+        "id": "Mecklenburg_NC_Latest",
         "attribution": {
             "url": "https://www.mecknc.gov/LUESA/GIS/Pages/GIS-Data-Center.aspx",
             "text": "Mecklenburg County GIS",
             "required": false
         },
-        "name": "Mecklenburg County Orthoimagery (2025)",
+        "name": "Mecklenburg County Orthoimagery (Latest)",
         "icon": "https://blog.mecknc.gov/wp-content/uploads/2017/11/Blue_Wide_Logo-768x766.jpg",
         "url": "https://meckaerial.mecklenburgcountync.gov/server/rest/services/Aerial_Latest/ImageServer?f=image&format=jpg&layers=&bbox={bbox}&bboxSR={wkid}&imageSR={wkid}&size={width},{height}",
         "max_zoom": 21,
@@ -18,9 +18,9 @@
             "CRS:84",
             "EPSG:3857"
         ],
-        "start_date": "2024-12-26",
-        "end_date": "2025-01-20",
-        "description": "Winter 2025 orthoimagery for Mecklenburg County in the State of North Carolina",
+        "start_date": "2026",
+        "end_date": "2026",
+        "description": "Latest orthoimagery for Mecklenburg County in the State of North Carolina",
         "category": "photo",
         "valid-georeference": true,
         "privacy_policy_url": "https://www.mecknc.gov/admin/Pages/PrivacyNotice.aspx"
