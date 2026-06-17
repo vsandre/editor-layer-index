@@ -7,15 +7,18 @@
             "text": "Palm Beach County",
             "required": false
         },
-        "name": "Palm Beach County Orthoimagery (2025)",
+        "name": "Palm Beach County Orthoimagery (2024)",
         "url": "https://gis.pbcgov.org/image/rest/services/Aerialphotography_2024_23_WebMercator/ImageServer/exportImage?f=image&image=jpg&imageSR={wkid}&bbox={bbox}&bboxSR={wkid}&size={width},{height}",
         "max_zoom": 20,
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
         "country_code": "US",
         "type": "wms",
+        "available_projections": [
+            "EPSG:3857"
+        ],
         "start_date": "2024",
         "end_date": "2024",
-        "description": "The 2025 orthoimagery for Palm Beach County of the State of Florida",
+        "description": "The 2024 orthoimagery for Palm Beach County of the State of Florida",
         "category": "historicphoto",
         "valid-georeference": true,
         "privacy_policy_url": "https://discover.pbcgov.org/Pages/Web-Site-Disclaimer.aspx"

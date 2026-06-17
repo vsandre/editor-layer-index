@@ -13,6 +13,9 @@
         "license_url": "https://wiki.openstreetmap.org/wiki/Florida#Publicly_Available_Data",
         "country_code": "US",
         "type": "wms",
+        "available_projections": [
+            "EPSG:3857"
+        ],
         "start_date": "2025",
         "end_date": "2025",
         "description": "The 2025 orthoimagery for Palm Beach County of the State of Florida",
