@@ -11,7 +11,6 @@
         "id": "viersen_alkis_wms",
         "description": "Amtliches Liegenschaftskatasterinformationssystem (ALKIS). Zeigt Gebäude- und Flurstücksdaten (tagesaktuell)",
         "country_code": "DE",
-        "best": true,
         "category": "other",
         "available_projections": [
             "CRS:84",
